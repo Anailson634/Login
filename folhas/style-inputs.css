@@ -1,0 +1,31 @@
+.Usuário {
+    position: absolute;
+}#Usuário {
+    position: absolute;
+    top: 11%;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(177, 27, 27, 0.445);
+    border-radius: 5px;
+}.Senha {
+    position: absolute;
+    top: 15%;
+}#Senha {
+    position: absolute;
+    top: 26%;
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgba(134, 7, 7, 0.445);
+    border-radius: 5px;
+}
+.btt {
+    position: absolute;
+    top: 120px;
+    width: 190px;
+    height: 40px;
+    background-color: rgba(255, 249, 249, 0);
+    border-color: rgba(134, 7, 7, 0.445);
+    border-radius: 12px;
+
+}.btt:hover {
+    background-color: rgba(226, 17, 17, 0.527);
+    border: solid rgba(0, 0, 0, 0.7);
+}
